@@ -659,7 +659,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90bb4d6bef60a1a41bd3448ff5563985, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  totalHorde: 2
+  totalHorde: 6
   totalBugsPerLevel: 0
   levelNumberText: {fileID: 204128568}
 --- !u!4 &291973042
